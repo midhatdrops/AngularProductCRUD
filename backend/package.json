@@ -7,6 +7,6 @@
     "json-server": "^0.16.2"
   },
   "scripts": {
-      "start": "json-server --watch db.json --port 3079"
+    "start": "json-server --watch db.json --port 3079"
   }
 }
