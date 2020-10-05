@@ -3,3 +3,5 @@
 ## The project is about a product management pannel. 
 
 ## 02/10 - Project Started, Git Started
+
+# 05/10 Angular Started, Nav, Header and Footer Components configured
